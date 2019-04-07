@@ -1,0 +1,85 @@
+Algorithm 1
+iteration-1 Mistakes 37
+iteration-1 training-accuracy 48.4472049689% testing-accuracy 63.3663366337%
+iteration-2 Mistakes 37
+iteration-2 training-accuracy 69.5652173913% testing-accuracy 63.3663366337%
+iteration-3 Mistakes 37
+iteration-3 training-accuracy 69.5652173913% testing-accuracy 63.3663366337%
+iteration-4 Mistakes 37
+iteration-4 training-accuracy 69.5652173913% testing-accuracy 63.3663366337%
+iteration-5 Mistakes 37
+iteration-5 training-accuracy 69.5652173913% testing-accuracy 63.3663366337%
+iteration-6 Mistakes 37
+iteration-6 training-accuracy 69.5652173913% testing-accuracy 63.3663366337%
+iteration-7 Mistakes 37
+iteration-7 training-accuracy 69.5652173913% testing-accuracy 63.3663366337%
+iteration-8 Mistakes 37
+iteration-8 training-accuracy 69.5652173913% testing-accuracy 63.3663366337%
+iteration-9 Mistakes 37
+iteration-9 training-accuracy 69.5652173913% testing-accuracy 63.3663366337%
+iteration-10 Mistakes 37
+iteration-10 training-accuracy 69.5652173913% testing-accuracy 63.3663366337%
+iteration-11 Mistakes 37
+iteration-11 training-accuracy 69.5652173913% testing-accuracy 63.3663366337%
+iteration-12 Mistakes 37
+iteration-12 training-accuracy 69.5652173913% testing-accuracy 63.3663366337%
+iteration-13 Mistakes 37
+iteration-13 training-accuracy 69.5652173913% testing-accuracy 63.3663366337%
+iteration-14 Mistakes 37
+iteration-14 training-accuracy 69.5652173913% testing-accuracy 63.3663366337%
+iteration-15 Mistakes 37
+iteration-15 training-accuracy 69.5652173913% testing-accuracy 63.3663366337%
+iteration-16 Mistakes 37
+iteration-16 training-accuracy 69.5652173913% testing-accuracy 63.3663366337%
+iteration-17 Mistakes 37
+iteration-17 training-accuracy 69.5652173913% testing-accuracy 63.3663366337%
+iteration-18 Mistakes 37
+iteration-18 training-accuracy 69.5652173913% testing-accuracy 63.3663366337%
+iteration-19 Mistakes 37
+iteration-19 training-accuracy 69.5652173913% testing-accuracy 63.3663366337%
+iteration-20 Mistakes 37
+iteration-20 training-accuracy 69.5652173913% testing-accuracy 63.3663366337%
+training-accuracy-standard-perceptron 69.5652173913% testing-accuracy-averaged-perceptron 63.3663366337%
+
+Algorithm 2
+iteration-1 Mistakes 25884
+iteration-1 training-accuracy 58.3712367338% testing-accuracy 45.5474913222%
+iteration-2 Mistakes 23481
+iteration-2 training-accuracy 67.6413255361% testing-accuracy 50.6027137898%
+iteration-3 Mistakes 24785
+iteration-3 training-accuracy 68.3993935456% testing-accuracy 47.859471968%
+iteration-4 Mistakes 27124
+iteration-4 training-accuracy 68.5510071475% testing-accuracy 42.9388871358%
+iteration-5 Mistakes 24313
+iteration-5 training-accuracy 69.8722113927% testing-accuracy 48.8524245293%
+iteration-6 Mistakes 23905
+iteration-6 training-accuracy 70.2404158545% testing-accuracy 49.7107394551%
+iteration-7 Mistakes 25244
+iteration-7 training-accuracy 69.9371886506% testing-accuracy 46.8938676764%
+iteration-8 Mistakes 23514
+iteration-8 training-accuracy 70.4570067143% testing-accuracy 50.5332912591%
+iteration-9 Mistakes 22659
+iteration-9 training-accuracy 71.3233701538% testing-accuracy 52.3319659198%
+iteration-10 Mistakes 22417
+iteration-10 training-accuracy 71.3666883258% testing-accuracy 52.8410644788%
+iteration-11 Mistakes 23224
+iteration-11 training-accuracy 72.2330517652% testing-accuracy 51.1433680446%
+iteration-12 Mistakes 21997
+iteration-12 training-accuracy 72.0381199913% testing-accuracy 53.7246239613%
+iteration-13 Mistakes 24076
+iteration-13 training-accuracy 72.0597790773% testing-accuracy 49.351004523%
+iteration-14 Mistakes 23502
+iteration-14 training-accuracy 72.536278969% testing-accuracy 50.5585358157%
+iteration-15 Mistakes 23181
+iteration-15 training-accuracy 72.2980290232% testing-accuracy 51.2338277059%
+iteration-16 Mistakes 24350
+iteration-16 training-accuracy 72.2330517652% testing-accuracy 48.7745871463%
+iteration-17 Mistakes 23681
+iteration-17 training-accuracy 73.2077106346% testing-accuracy 50.1819711791%
+iteration-18 Mistakes 21398
+iteration-18 training-accuracy 72.622915313% testing-accuracy 54.9847480804%
+iteration-19 Mistakes 23679
+iteration-19 training-accuracy 73.4892787524% testing-accuracy 50.1861786052%
+iteration-20 Mistakes 21866
+iteration-20 training-accuracy 73.0777561187% testing-accuracy 54.0002103713%
+training-accuracy-standard-perceptron 73.0777561187% testing-accuracy-averaged-perceptron 37.839486694%
